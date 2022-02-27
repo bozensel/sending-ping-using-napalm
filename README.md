@@ -9,3 +9,6 @@ NAPALM supports several methods to connect to the devices, to manipulate configu
 It was written for Huawei box.
 
 !pip install napalm
+
+![image](https://user-images.githubusercontent.com/94804863/155887110-5d3dd0e5-6880-4f95-9db4-79de3319edf7.png)
+
