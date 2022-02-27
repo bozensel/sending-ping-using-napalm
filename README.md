@@ -6,4 +6,6 @@ NAPALM
 
 NAPALM supports several methods to connect to the devices, to manipulate configurations or to retrieve data.
 
+It was written for Huawei box.
+
 !pip install napalm
