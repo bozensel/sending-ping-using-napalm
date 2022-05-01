@@ -1,6 +1,6 @@
 # sending-ping-using-napalm
 The purpose of this code is to send ping for specific interfaces using napalm. 
-
+ 
 NAPALM 
 
 (Network Automation and Programmability Abstraction Layer with Multivendor support) is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.
